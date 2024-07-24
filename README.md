@@ -1,1 +1,1 @@
-# Taller05-Patrones-de-Dise-o
+# Taller05-Patrones-de-Diseno
