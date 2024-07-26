@@ -8,5 +8,12 @@ se aplicaron los patrones:
 - Facade
 - Decorator
 
+En la carpeta **Patrones de Diseño y UML**,
+se aplicaron los patrones: 
+
+- Iterator
+- Strategy
+- Chain of responsibility
+
 Con las implementaciones practicas de acuerdo a los
 requerimientos del texto planteado.
