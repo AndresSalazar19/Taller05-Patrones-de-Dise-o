@@ -12,3 +12,4 @@ public class TarjetaBasica extends TarjetaCredito {
         System.out.println("Tarjeta Básica: Costo Anual = " + costoAnual + ", Límite de Crédito = " + limiteCredito);
     }
 }
+
